@@ -1,0 +1,7 @@
+cmake-build-*/
+build/
+.idea/
+*.o
+*.out
+ohj
+.ipynb_checkpoints/
